@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  font-size: small;
+  width: 750px;
+  margin: 0 auto;
+
+}
+
+#wrap {
+}     

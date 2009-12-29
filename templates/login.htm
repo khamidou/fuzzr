@@ -1,0 +1,7 @@
+$def with (form, error)
+
+<form name="main" method="post"> 
+$if not form.valid: <p class="error">Unable to log you, please retry</p>
+$if error: <p class="error">$error</p>
+$:form.render()
+<input type="submit" />    </form>

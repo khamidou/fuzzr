@@ -1,0 +1,8 @@
+<link rel="alternate" type="application/rss+xml" 
+   href="/feed/karim/" title="RSS feed for My Page">
+
+<a href="/page/karim/">Page</a>
+<a href="/feed/karim/" type="application/rss+xml">Karim's feed</a>
+<a href="/login/">login</a>
+<a href="/logout/">logout</a>
+<a href="/add/">Add</a>
