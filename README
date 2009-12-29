@@ -1,0 +1,5 @@
+This is the repo for fuzzr, a webapp which is supposed to give you random (and incongruous) actions to do every day.
+The app is not yet ready for launch as I plan to add more features.
+
+Oh, btw, it uses web.py, mongodb and pymongo.
+The script rundb runs mongod from the mongo/bin/ directory.
