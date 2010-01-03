@@ -1,9 +1,0 @@
-$def with (actions, username)
-
-<div class="content">
-$if username != None: <h1>$username's page</h1>
-  <ul>
-    $for action in actions:
-    	<li>$action["description"]</li>
-  </ul>
-</div>

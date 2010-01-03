@@ -12,7 +12,7 @@ actions = db.actions
 def create_post(title, desc, for_musicians=0):
     return {"title": title,
             "description": desc,
-            "for-musicians": for_musicians)
+            "for-musicians": for_musicians,
 	}
 
 def create_user(username, passwd, is_root, is_musician=0):
